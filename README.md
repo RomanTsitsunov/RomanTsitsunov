@@ -5,8 +5,8 @@
 - roman.tsitsunov@yandex.ru
 - https://t.me/RomanTsitsunov 
 
-## Work experience — 2 years and 2 months
-### OOO «Haulmont»<br/>
+## Work experience — 3 years and 4 months
+### OOO «Haulmont» 2 years and 2 months<br/>
 Development Engineer<br/>
 
 Worked on the electronic document management system “Tezis”, built on the CUBA Platform (based on Spring Boot).<br/>
@@ -31,7 +31,7 @@ Key Achievements:
 
 Technologies: Java, Spring, PostgreSQL, CUBA Platform, liquibase, EclipseLink, Elasticsearch, XML, Gradle.
 
-### ВТБ
+### ВТБ 1 year and 2 months
 Development Engineer<br/>
 
 I was involved in the development of internal banking services within the Digital Corporate Solutions department. I participated in the development and maintenance of microservices for processing business events and integrating various banking systems.
