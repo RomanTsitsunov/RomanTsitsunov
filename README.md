@@ -2,11 +2,23 @@
 
 ## Contacts
 - +7 (960) 8081829
-- roman.tsitsunov@yandex.ru
+- romantsitsunov@gmail.com
 - https://t.me/RomanTsitsunov 
 
-## Work experience — 3 years and 4 months
-### OOO «Haulmont» 2 years and 2 months<br/>
+## Work experience — 4 years and 1 month
+### BOSCH 6 months<br/>
+Middle+ Backend Java Developer<br/>
+
+Technical support and customization of the Tezis EDM system (built on CUBA Platform / Spring Boot).<br/>
+
+- Support highload systems with 500K+ users.
+- Provide backend technical support and enhancements for the Tezis electronic document management system on a live client implementation.
+- Diagnose and resolve production issues on high-load modules, working directly with client stakeholders on system reliability.
+- Customize entity data models, business logic, and reporting to meet client-specific requirements.
+
+Technologies: Java, Spring, PostgreSQL, CUBA Platform, Groovy, XML, Gradle.
+
+### OOO «Haulmont» 2 years and 5 months<br/>
 Development Engineer<br/>
 
 Worked on the electronic document management system “Tezis”, built on the CUBA Platform (based on Spring Boot).<br/>
