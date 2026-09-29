@@ -5,7 +5,7 @@
 - romantsitsunov@gmail.com
 - https://t.me/RomanTsitsunov 
 
-## Work experience — 4 years and 1 month
+## Work experience — 4 years and 4 month
 ### BOSCH 6 months<br/>
 Middle+ Backend Java Developer<br/>
 
@@ -18,7 +18,7 @@ Technical support and customization of the Tezis EDM system (built on CUBA Platf
 
 Technologies: Java, Spring, PostgreSQL, CUBA Platform, Groovy, XML, Gradle.
 
-### OOO «Haulmont» 2 years and 5 months<br/>
+### OOO «Haulmont» 2 years and 6 months<br/>
 Development Engineer<br/>
 
 Worked on the electronic document management system “Tezis”, built on the CUBA Platform (based on Spring Boot).<br/>
@@ -43,7 +43,7 @@ Key Achievements:
 
 Technologies: Java, Spring, PostgreSQL, CUBA Platform, liquibase, EclipseLink, Elasticsearch, XML, Gradle.
 
-### ВТБ 1 year and 2 months
+### ВТБ 1 year and 4 months
 Development Engineer<br/>
 
 I was involved in the development of internal banking services within the Digital Corporate Solutions department. I participated in the development and maintenance of microservices for processing business events and integrating various banking systems.
@@ -72,7 +72,7 @@ Institute of Computer Science and Cybernetics, 09.04.01 Computer Science and Com
 
 
 ## About me
-Backend developer with 3 years of Java/Spring development experience, including 2 years of commercial work with the CUBA Platform, also have experience working with JavaScript, React, Python, Typescript.<br/>
+Backend developer with 4+ years of Java/Spring development experience, including 2 years of commercial work with the CUBA Platform, also have experience working with JavaScript, React, Python, Typescript.<br/>
 
 I have experience designing databases, writing complex sql queries, and designing microservice architectures.<br/>
 
