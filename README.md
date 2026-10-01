@@ -5,8 +5,8 @@
 - romantsitsunov@gmail.com
 - https://t.me/RomanTsitsunov 
 
-## Work experience — 4 years and 4 month
-### BOSCH 6 months<br/>
+## Work experience — 6+ years
+### BOSCH 7 months<br/>
 Middle+ Backend Java Developer<br/>
 
 Technical support and customization of the Tezis EDM system (built on CUBA Platform / Spring Boot).<br/>
@@ -60,6 +60,17 @@ Key Achievements:
 
 Technologies:
 Java, Spring Framework, PostgreSQL, Apache Kafka, JUnit, Maven, Git, GitLab.
+
+### I-SYS 1 year and 7 months
+Development Engineer<br/>
+
+I worked and supported on backend of BPM system. I worked on mobile application in Kotlin. I builded core backend infrastructure: data access, authentication, security, service logic.
+
+Key Achivements:
+- Implemented JWT authentication, protected API access;
+- Developed REAS API endpoints.
+
+Technologies: Java, Spring Framework, PostgreSQL, JavaScript, Kotlin, Git, GitLab.
 
 ## Education
 ### 2024 baccalaureate
