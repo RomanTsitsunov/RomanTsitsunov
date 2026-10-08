@@ -61,7 +61,7 @@ Key Achievements:
 Technologies:
 Java, Spring Framework, PostgreSQL, Apache Kafka, JUnit, Maven, Git, GitLab.
 
-### I-SYS 1 year and 7 months
+### I-SYS 1 year and 10 months
 Development Engineer<br/>
 
 I worked and supported on backend of BPM system. I worked on mobile application in Kotlin. I builded core backend infrastructure: data access, authentication, security, service logic.
